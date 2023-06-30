@@ -112,6 +112,7 @@ app.post('/rename', (req, res) => {
   }
 })
 
+console.log('jadiin squash')
 
 app.listen(PORT, (error) =>{
   if(!error)
