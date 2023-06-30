@@ -117,8 +117,6 @@ console.log('GG')
 console.log('WP')
 console.log('WALANG')
 
-console.log('GGGGG');
-console.log('PPPP');
 
 app.listen(PORT, (error) =>{
   if(!error)
