@@ -112,6 +112,7 @@ app.post('/rename', (req, res) => {
   }
 })
   
+console.log('asu');
 
 app.listen(PORT, (error) =>{
   if(!error)
