@@ -115,7 +115,6 @@ app.post('/rename', (req, res) => {
 console.log('jadiin squash');
 console.log('GG')
 console.log('WP')
-console.log('WALANG')
 
 
 app.listen(PORT, (error) =>{
