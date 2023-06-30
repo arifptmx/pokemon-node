@@ -117,6 +117,9 @@ console.log('GG')
 console.log('WP')
 console.log('WALANG')
 
+console.log('GGGGG');
+console.log('PPPP');
+
 app.listen(PORT, (error) =>{
   if(!error)
     console.log("Server is Successfully Running, and App is listening on port " + PORT)
